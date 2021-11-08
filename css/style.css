@@ -15,7 +15,7 @@
     height: 250px;
     position:absolute;
     left: 9.25%;
-    margin-top: 6%;
+    margin-top: -46%;
   }
 
   .verticalB {
@@ -23,7 +23,7 @@
     height: 250px;
     position:absolute;
     left: 9.25%;
-    margin-top: 31%;
+    margin-top: -21%;
   }
 
   .verticalC {
@@ -301,7 +301,32 @@
     font-weight: 400;
     margin-left: 150px;
   }
-  
+  .inst {
+    float: left;
+    width: 1.4%;
+    height:auto;
+    position: relative;
+    margin-top: -440px;
+    margin-left: 130px;
+  }
+
+  .link {
+    float: left;
+    width: 1.4%;
+    height: auto;
+    margin-top: -400px;
+    margin-left: 130px;
+    border-radius: 20%;
+  }
+
+  .web {
+    float: left;
+    width: 1.4%;
+    height: auto;
+    margin-top: -360px;
+    margin-left: 130px;
+    border-radius: 20%;
+  }
   .insta {
     float: left;
     width: 1.4%;
